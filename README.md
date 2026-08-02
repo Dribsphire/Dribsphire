@@ -19,8 +19,6 @@ I'm a **BS Information Technology** graduate with hands-on experience in **softw
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Read_the_Docs-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white" />
 </p>
